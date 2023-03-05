@@ -1,0 +1,529 @@
+@media (min-width:279px) and (max-width:319px){
+/*css start*/
+.navbar-expand-lg .navbar-nav .nav-link {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    margin: 0px 0px 0px 0px;
+    cursor: pointer;
+}
+.inner-banner h1 {
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 48px;
+    font-weight: 700;
+    letter-spacing: 5px;
+    line-height: 1.2em;
+    color: #3d2514;
+    text-transform: uppercase;
+    text-shadow: 5px 4px #fee7ba;
+}
+.inner-banner h3 {
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 48px;
+    font-weight: 700;
+    letter-spacing: 5px;
+    line-height: 1.2em;
+    color: #3d2514;
+    text-transform: uppercase;
+    text-shadow: 5px 4px #fee7ba;
+}
+.feature .card-title {
+    font-family: 'Bebas Neue', bold;
+    font-size: 22px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #fff;
+    margin: -5px 0px 0px;
+    padding: 0px;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    padding: 10px 0px;
+    text-align: center;
+}
+
+/*css end*/
+}
+@media (min-width:320px) and (max-width:480px){
+/*css start*/
+    .header .main-menu a img {
+        margin: 10px 0px 10px;
+    }
+    .header .main-menu p{
+        font-size: 10px;
+        display: inline-block;
+        text-align: left;
+    }
+    .navbar .navbar-toggler{
+        margin: -46px 0px 0px;
+    }
+    .navbar-expand-lg .navbar-nav{
+        margin: 0px 0px 0px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 16px;
+        letter-spacing: 1px;
+        margin: 0px 0px 10px 0px;
+        text-align: left;
+    }
+
+    .banner{
+        padding: 0px 0px;
+    }
+    .banner .inner-banner{
+        margin: 30px 0px 0px;
+    }
+    .inner-banner h5{
+        font-size: 14px;
+    }
+    .inner-banner h1 {
+        font-size: 56px;
+    }
+    .banner .img-fluid{
+        padding: 0px;
+        margin: -55px 0px 0px;
+    }
+    .feature{
+        padding: 20px 0px;
+    }
+    .feature .card{
+        margin: 0px 0px 20px;
+    }
+    .feature .card-title {
+        font-size: 16px;
+        margin: 10px 0px 0px;
+    }
+    .feature .card-text{
+        font-size: 22px;
+    }
+    .choose{
+        padding: 10px 0px;
+    }
+    .choose .inner-choose h5 span{
+        margin: 0px 0px 10px;
+    }
+    .choose .inner-choose h1{
+        font-size: 24px;
+    }
+    .choose .inner-choose p{
+        font-size: 9px;
+        margin: 10px 0px 0px
+    }
+    .choose .order-now .img-fluid{
+        margin: 0px 0px 5px
+    }
+    .choose .order-now{
+        padding: 0px 20px 20px;
+    }
+    .choose .order-now h4{
+        font-size: 20px;
+    }
+    .choose .order-now .btn-danger{
+        font-size: 14px;
+        padding: 10px 30px;
+    }
+    .slider{
+        padding: 30px 0px;
+        text-align: center;
+    }
+    .slider .owl-carousel{
+        padding: 20px 10px;
+    }
+    .slider .owl-carousel .item h4{
+        margin: 0px;
+    }
+    .slider .owl-carousel .item h3{
+        font-size: 24px;
+    }
+    .slider .owl-carousel .item p{
+        font-size: 11px;
+        margin: 15px 0px;
+    }
+    .slider .owl-theme .owl-dots .owl-dot span{
+        display: none;
+    }
+    .form-part{
+        padding: 30px 0px;
+    }
+    .form-part .form-control{
+        width: 100%;
+    }
+    .form-part .inner-form-text{
+        padding: 0px 0px 20px;
+    }
+    .form-part .inner-form-text h3{
+        font-size: 24px;
+    }
+    .form-part .btn-danger{
+        font-size: 10px;
+        padding: 19px 30px;
+    }
+    .footer .inner-footer{
+        padding: 20px 15px 0px;
+    }
+    .footer .inner-footer .img-fluid{
+        width: 80%;
+        margin: 0px 0px 20px 0px;
+    }
+    .footer .inner-footer .footer-paragraph{
+        font-size: 7px;
+        line-height: 1.2em;
+    }
+    .footer .inner-footer .info ul{
+        width: 100%;
+        display: block;
+        margin: 0px;
+        padding: 0px;
+    }
+    .footer .inner-footer .info ul li a{
+        font-size: 12px;
+    }
+    .footer .inner-footer .info ul li a p img{
+        margin: 0px 10px 0px 0px;
+    }
+    .footer .inner-footer .footer-bottom{
+        padding: 0px 0px 10px;
+    }
+    .footer .inner-footer .copyright{
+        text-align: center;
+        font-size: 10px;
+        margin: 0px 0px 5px;
+    }
+    .footer .inner-footer .social-icon ul{
+        text-align: center;
+        padding: 0px;
+        margin: 0px 0px 0px 0px;
+    }
+    .footer .inner-footer .social-icon ul li{
+        list-style: none;
+        display: inline-block;
+        width: 20px;
+        height: 20px;
+        line-height: 20px;
+        margin: 0px 5px 0px 0px;
+    }
+    .footer .inner-footer .social-icon ul li{
+        font-size: 12px;
+        text-align: center;
+    }
+/*css end*/ 
+}
+@media (min-width: 481px) and (max-width: 768px){
+/*css start*/
+    .header .main-menu a img {
+        margin: 15px 0px 15px;
+    }
+    .header .main-menu p{
+        font-size: 14px;
+        display: inline-block;
+        text-align: left;
+    }
+    .navbar .navbar-toggler{
+        margin: -50px 0px 0px;
+    }
+    .navbar-expand-lg .navbar-nav{
+        margin: 0px 0px 0px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 16px;
+        letter-spacing: 1px;
+        margin: 0px 0px 10px 0px;
+        text-align: left;
+    }
+
+    .banner{
+        padding: 0px 0px;
+    }
+    .banner .inner-banner{
+        margin: 40px 0px 0px;
+    }
+    .inner-banner h5{
+        font-size: 18px;
+    }
+    .inner-banner h1{
+        font-size: 85px;
+    }
+    .banner .img-fluid{
+        padding: 0px;
+        margin: -55px 0px 0px;
+    }
+    .feature{
+        padding: 40px 0px;
+    }
+    .feature .card{
+        margin: 0px 0px 20px;
+    }
+    .feature .card-title {
+        font-size: 16px;
+        margin: 10px 0px 0px;
+    }
+    .feature .card-text{
+        font-size: 20px;
+    }
+    .choose{
+        padding: 10px 0px;
+    }
+    .choose .inner-choose h5 span{
+        margin: 0px 0px 20px;
+    }
+    .choose .inner-choose h1{
+        font-size: 30px;
+    }
+    .choose .inner-choose p{
+        font-size: 12px;
+        margin: 20px 0px 0px
+    }
+    .choose .order-now .img-fluid{
+        margin: 0px 0px 10px
+    }
+    .choose .order-now{
+        padding: 41px 114px;
+    }
+    .choose .order-now h4{
+        font-size: 23px;
+    }
+    .choose .order-now .btn-danger{
+        font-size: 14px;
+        padding: 10px 30px;
+    }
+    .slider{
+        padding: 30px 0px;
+        text-align: center;
+    }
+    .slider .owl-carousel{
+        padding: 20px 10px;
+    }
+    .slider .owl-carousel .item h4{
+        margin: 0px;
+    }
+    .slider .owl-carousel .item h3{
+        font-size: 24px;
+    }
+    .slider .owl-carousel .item p{
+        font-size: 14px;
+        margin: 15px 0px;
+    }
+    .slider .owl-theme .owl-dots .owl-dot span{
+        display: none;
+    }
+    .form-part{
+        padding: 30px 0px;
+    }
+    .form-part .form-control{
+        width: 100%;
+        padding: 20px;
+        margin: 0px 0px 20px 0px;
+    }
+    .form-part .inner-form-text{
+        padding: 0px 0px 20px;
+    }
+    .form-part .inner-form-text h3{
+        font-size: 24px;
+    }
+    .form-part .btn-danger{
+        font-size: 14px;
+        padding: 19px 30px;
+    }
+    .footer .inner-footer{
+        padding: 20px 15px 0px;
+    }
+    .footer .inner-footer .img-fluid{
+        width: 80%;
+        margin: 0px 0px 20px 0px;
+    }
+    .footer .inner-footer .footer-paragraph{
+        font-size: 12px;
+        line-height: 1.2em;
+    }
+    .footer .inner-footer .info ul{
+        width: 100%;
+        display: block;
+        margin: 0px;
+        padding: 0px;
+    }
+    .footer .inner-footer .info ul li a{
+        font-size: 14px;
+    }
+    .footer .inner-footer .info ul li a p img{
+        margin: 0px 10px 0px 0px;
+    }
+    .footer .inner-footer .footer-bottom{
+        padding: 0px 0px 20px;
+    }
+    .footer .inner-footer .copyright{
+        text-align: center;
+        font-size: 10px;
+        margin: 0px 0px 10px;
+    }
+    .footer .inner-footer .social-icon ul{
+        text-align: center;
+        padding: 0px;
+        margin: 0px 0px 0px 0px;
+    }
+    .footer .inner-footer .social-icon ul li{
+        list-style: none;
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        margin: 0px 5px 0px 0px;
+    }
+    .footer .inner-footer .social-icon ul li{
+        font-size: 12px;
+        text-align: center;
+    }
+/*css end*/ 
+}
+@media (min-width:769px) and (max-width:1024px){
+/*css start*/
+.header .main-menu a img {
+        margin: 15px 0px 15px;
+    }
+    .header .main-menu p{
+        font-size: 14px;
+        display: block;
+        text-align: left;
+    }
+    .navbar .navbar-toggler{
+        margin: -50px 0px 0px;
+    }
+    .navbar-expand-lg .navbar-nav{
+        margin: 0px 0px 0px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 16px;
+        letter-spacing: 1px;
+        margin: 0px 0px 10px 0px;
+        text-align: right;
+    }
+    
+    .banner{
+        padding: 0px 0px;
+    }
+    .banner .inner-banner{
+        margin: 40px 0px 0px;
+    }
+    .inner-banner h5{
+        font-size: 18px;
+    }
+    .inner-banner h1{
+        font-size: 85px;
+    }
+    .inner-banner h3{
+        font-family: 'Alfa Slab One', cursive;
+        font-size: 100px;
+        font-weight: 700;
+        letter-spacing: 5px;
+        line-height: 1.2em;
+        color: #3d2514;
+        text-transform: uppercase;
+        text-shadow: 5px 4px #fee7ba;
+    }
+    .banner .img-fluid{
+        padding: 0px;
+        margin: -55px 0px 0px;
+    }
+    .feature{
+        padding: 40px 0px;
+    }
+    .feature .card{
+        margin: 0px 0px 20px;
+    }
+    .feature .card-title {
+        margin: 30px 0px 0px;
+    }
+    .choose{
+        padding: 10px 0px;
+    }
+    .choose .inner-choose h5 span{
+        margin: 0px 0px 20px;
+    }
+    .choose .inner-choose h1{
+        font-size: 30px;
+    }
+    .choose .inner-choose p{
+        font-size: 12px;
+        margin: 20px 0px 0px
+    }
+    .choose .order-now .img-fluid{
+        margin: 0px 0px 10px
+    }
+    .choose .order-now{
+        padding: 0px 90px 40px;
+    }
+    .choose .order-now h4{
+        font-size: 23px;
+    }
+    .choose .order-now .btn-danger{
+        font-size: 14px;
+        padding: 10px 30px;
+    }
+    .slider .owl-carousel .item p {
+        font-size: 10px;
+    }
+    .slider .owl-theme .owl-dots .owl-dot span{
+        display: none;
+    }
+    .form-part{
+        padding: 30px 0px 100px;
+    }
+    .form-part .form-control{
+        padding: 20px;
+        margin: 0px 0px 20px 0px;
+    }
+    .footer .inner-footer{
+        padding: 20px 15px 0px;
+    }
+    .footer .inner-footer .img-fluid{
+        width: 80%;
+        margin: 0px 0px 20px 0px;
+    }
+    .footer .inner-footer .footer-paragraph{
+        font-size: 12px;
+        line-height: 1.2em;
+    }
+    .footer .inner-footer .info ul{
+        width: 100%;
+        display: block;
+        margin: 0px;
+        padding: 0px;
+    }
+    .footer .inner-footer .info ul li a{
+        font-size: 14px;
+    }
+    .footer .inner-footer .info ul li a p img{
+        margin: 0px 10px 0px 0px;
+    }
+    .footer .inner-footer .footer-bottom{
+        padding: 0px 0px 20px;
+    }
+    .footer .inner-footer .copyright{
+        text-align: left;
+        font-size: 10px;
+        margin: 0px 0px 10px;
+    }
+    .footer .inner-footer .social-icon ul{
+        
+        display: inline-block;
+        padding: 0px;
+        margin: 0px 0px 0px 0px;
+    }
+    .footer .inner-footer .social-icon ul li{
+        list-style: none;
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        margin: 0px 5px 0px 0px;
+        text-align: center;
+    }
+    .footer .inner-footer .social-icon ul li{
+        font-size: 12px;
+        text-align: center;
+    }
+/*css end*/ 
+}
